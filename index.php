@@ -44,7 +44,7 @@
     <td>prasadchelluri@gvpcew.ac.in</td>
     <td>2029-05-04</td>
    </tr>
-
+    <p > Results yet to be Announced 😅
         </tbody>
     </table>
 </body>
